@@ -2,7 +2,9 @@
 
 MACHINE LEARNING 
 Machine Learning is making the computer learn from studying data and statistics.
+
 Machine Learning is a step into the direction of artificial intelligence (AI).
+
 Machine Learning is a program that analyses data and learns to predict the outcome.
 
 Here are some important points to understand are as follow :
@@ -23,7 +25,9 @@ C) Ordinal : Ordinal data are like categorical data, but can be measured up agai
 
 In Machine Learning (and in mathematics) there are often three values that interests us:
 •	Mean - The average value, To calculate the mean, find the sum of all values, and divide the sum by the number of values.
+
 •	Median - The median value is the value in the middle, after you have sorted all the values:
+
 •	Mode - The median value is the value in the middle, after you have sorted all the values.
 
 ## Standard Deviation
