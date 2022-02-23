@@ -30,7 +30,7 @@ In Machine Learning (and in mathematics) there are often three values that inter
 
 •	Mode - The median value is the value in the middle, after you have sorted all the values.
 
-## Standard Deviation
+### Standard Deviation
 Standard deviation is a number that describes how spread out the values are.
 A low standard deviation means that most of the numbers are close to the mean (average) value.
 A high standard deviation means that the values are spread out over a wider range.
@@ -118,6 +118,8 @@ The goal of unsupervised learning is to find the underlying structure of dataset
 
 ### K-Mean Clustering
 One of the most used clustering algorithm is k-means. It allows to group the data according to the existing similarities among them in k clusters, given as input to the algorithm. I’ll start with a simple example. 
+
+![](https://github.com/SOMYYA1/MACHINE-LEARNING/blob/main/k-mean%20clustering.png)
 
 
 
