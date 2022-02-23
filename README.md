@@ -42,6 +42,9 @@ Percentiles are used in statistics to give you a number that describes the value
 Machine Learning refers to the process of training a computer program to build a statistical model based on data. The goal of machine learning (ML) is to turn data and identify the key patterns out of data or to get key insights.
 Machine learning can be categorized into two main types: supervised learning and unsupervised learning.
 
+![](https://github.com/SOMYYA1/MACHINE-LEARNING/blob/main/TYPES%20OF%20ML.png)
+
+
 Supervised learning is a machine learning algorithm of inferring a function from labeled training data. The training data consists of a set of training examples.
 
 Unsupervised learning is also a type of machine learning algorithm used to find patterns on the set of data given. In this, we don’t have any dependent variable or label to predict.
