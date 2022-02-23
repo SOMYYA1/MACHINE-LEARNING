@@ -29,6 +29,9 @@ Machine learning can be categorized into two main types: supervised learning and
 
 Supervised learning is a machine learning algorithm of inferring a function from labeled training data. The training data consists of a set of training examples.
 Unsupervised learning is also a type of machine learning algorithm used to find patterns on the set of data given. In this, we don’t have any dependent variable or label to predict.
+
+![](https://github.com/SOMYYA1/MACHINE-LEARNING/blob/main/Supervised%20and%20Unsupervised.png)
+
 Simple Linear Regression 
 If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
 Multli  Linear Regression
