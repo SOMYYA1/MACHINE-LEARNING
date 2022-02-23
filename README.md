@@ -87,6 +87,9 @@ No autocorrelations: The linear regression model assumes no autocorrelation in e
 
 ### Train/Test
 Train/Test is a method to measure the accuracy of your model.It is called Train/Test because you split the the data set into two sets: a training set and a testing set. 80% for training, and 20% for testing.You train the model using the training set.
+
+![](https://github.com/SOMYYA1/MACHINE-LEARNING/blob/main/test-train%20data.png)
+
 You test the model using the testing set. Train the model means create the model. Test the model means test the accuracy of the model.
 
 ### POLYMONIAL REGRESSION 
