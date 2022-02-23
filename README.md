@@ -97,6 +97,11 @@ Regression trees (Continuous data types)
 The decision or the outcome variable is Continuous, e.g. a number like 123.
 
 ### Clustering
+
+![](https://github.com/SOMYYA1/MACHINE-LEARNING/blob/main/cluster.jfif)
+
+
+
 Unsupervised learning is a machine learning technique in which models are not supervised using training dataset. 
 The goal of unsupervised learning is to find the underlying structure of dataset, group that data according to similarities, and represent that dataset in a compressed format.
 
