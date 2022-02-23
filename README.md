@@ -68,8 +68,8 @@ Linear relationship between the features and target.
 Linear regression assumes the linear relationship between the dependent and independent variables.
 
 Small or no multicollinearity between the features.
-Multicollinearity means high-correlation between the independent variables.Due to multicollinearity, it may difficult to find the true relationship between the predictors and target variables. 
-Or we can say, it is difficult to determine which predictor variable is affecting the target variable and which is not. So, the model assumes either little or no multicollinearity between the features or independent variables.
+Multicollinearity means high-correlation between the independent variables.
+It is difficult to determine which predictor variable is affecting the target variable and which is not. So, the model assumes either little or no multicollinearity between the features or independent variables.
 
 Homoscedasticity Assumption:
 Homoscedasticity is a situation when the error term is the same for all the values of independent variables. With homoscedasticity, there should be no clear pattern distribution of data in the scatter plot.
@@ -87,22 +87,22 @@ You test the model using the testing set. Train the model means create the model
 Polynomial regression, like linear regression, uses the relationship between the variables x and y to find the best way to draw a line through the data points.
  
 
-
 ### Decision Tree 
 Decision Trees are a type of Supervised Machine Learning (that is you explain what the input is and what the corresponding output is in the training data) where the data is continuously split according to a certain parameter. The tree can be explained by two entities, namely decision nodes and leaves. The leaves are the decisions or the final outcomes. And the decision nodes are where the data is split.
 
 Classification trees (Yes/No types) 
-What we have seen above is an example of classification tree, where the outcome was a variable like ‘fit’ or ‘unfit’. Here the decision variable is Categorical.
+The decision variable is Categorical.
 
 Regression trees (Continuous data types)
- The decision or the outcome variable is Continuous, e.g. a number like 123.
+The decision or the outcome variable is Continuous, e.g. a number like 123.
 
 ### Clustering
-Unsupervised learning is a machine learning technique in which models are not supervised using training dataset. Instead, models itself find the hidden patterns and insights from the given data. It can be compared to learning which takes place in the human brain while learning new things.
+Unsupervised learning is a machine learning technique in which models are not supervised using training dataset. 
 The goal of unsupervised learning is to find the underlying structure of dataset, group that data according to similarities, and represent that dataset in a compressed format.
 
 ### K-Mean Clustering
-One of the most used clustering algorithm is k-means. It allows to group the data according to the existing similarities among them in k clusters, given as input to the algorithm. I’ll start with a simple example. Let’s imagine we have 5 objects (say 5 people) and for each of them we know two features (height and weight). We want to group them into k=2 clusters.
+One of the most used clustering algorithm is k-means. It allows to group the data according to the existing similarities among them in k clusters, given as input to the algorithm. I’ll start with a simple example. 
+
 
 
 
