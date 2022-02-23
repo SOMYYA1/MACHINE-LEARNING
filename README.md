@@ -67,6 +67,9 @@ Scikit-learn is probably the most useful library for machine learning in Python.
 ### Assumptions of Linear Regression Below are some important assumptions of Linear Regression.
 These are some formal checks while building a Linear Regression model, which ensures to get the best possible result from the given dataset.
 
+![](https://github.com/SOMYYA1/MACHINE-LEARNING/blob/main/assumption%20of%20linear%20reg..png)
+
+
 Linear relationship between the features and target.
 Linear regression assumes the linear relationship between the dependent and independent variables.
 
